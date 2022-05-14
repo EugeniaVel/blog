@@ -1,0 +1,5 @@
+Вызвать hugo
+cd public
+git add .
+git commit -am "comment" 
+git push
