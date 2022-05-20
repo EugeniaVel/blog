@@ -40,6 +40,27 @@ social:
   - icon: github
     icon_pack: fab
     link: https://github.com/EugeniaVel
+  - icon: envelope
+    icon_pack: fas
+    link: https://www.elibrary.ru/defaultx.asp?
+  - icon: github
+    icon_pack: fab
+    link: https://scholar.google.com/
+  - icon: envelope
+    icon_pack: fas
+    link: https://orcid.org/my-orcid?orcid=0000-0002-6694-8692
+  - icon: github
+    icon_pack: fab
+    link: https://www.mendeley.com/settings/account/
+  - icon: github
+    icon_pack: fab
+    link: https://www.researchgate.net/profile/Eugenia-Velikodneva
+  - icon: envelope
+    icon_pack: fas
+    link: https://independent.academia.edu/EugeniaVel
+  - icon: github
+    icon_pack: fab
+    link: https://arxiv.org/
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,

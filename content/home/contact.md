@@ -38,10 +38,6 @@ content:
     latitude: '37.4275'
     longitude: '-122.1697'
   directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
-  office_hours:
-    - 'Monday 10:00 to 13:00'
-    - 'Wednesday 09:00 to 10:00'
-  appointment_url: 'https://calendly.com'
   contact_links:
     - icon: twitter
       icon_pack: fab
@@ -51,18 +47,6 @@ content:
       icon_pack: fas
       name: Zoom Me
       link: 'https://zoom.com'
-    - icon: 
-      icon_pack: 
-      name: library resourses
-      link: 'https://www.elibrary.ru/defaultx.asp?'
-      'https://scholar.google.com/'
-      'https://scholar.google.com/'
-      'https://orcid.org/my-orcid?orcid=0000-0002-6694-8692'
-      'https://www.mendeley.com/settings/account/'
-      'https://www.researchgate.net/profile/Eugenia-Velikodneva'
-      'https://independent.academia.edu/EugeniaVel'
-      'https://arxiv.org/'
-
 design:
   columns: '2'
 ---
