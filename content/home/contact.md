@@ -51,6 +51,17 @@ content:
       icon_pack: fas
       name: Zoom Me
       link: 'https://zoom.com'
+    - icon: 
+      icon_pack: 
+      name: library resourses
+      link: 'https://www.elibrary.ru/defaultx.asp?'
+      'https://scholar.google.com/'
+      'https://scholar.google.com/'
+      'https://orcid.org/my-orcid?orcid=0000-0002-6694-8692'
+      'https://www.mendeley.com/settings/account/'
+      'https://www.researchgate.net/profile/Eugenia-Velikodneva'
+      'https://independent.academia.edu/EugeniaVel'
+      'https://arxiv.org/'
 
 design:
   columns: '2'
